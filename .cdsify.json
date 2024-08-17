@@ -1,0 +1,12 @@
+{
+  "entities": [
+    "axa_question",
+    "axa_choice",
+    "axa_promise"
+  ],
+  "actions": [],
+  "functions": [],
+  "output": {
+    "outputRoot": "./QuestionPCF/cds-generated"
+  }
+}
